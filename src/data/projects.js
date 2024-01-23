@@ -20,11 +20,11 @@ export const projectsData = [
   },
   {
     id: 2,
-    title: 'eGeekStore',
+    title: 'e-Geek Store',
     category: 'UI/UX Design',
     img: eGeekStore1,
     ProjectHeader: {
-      title: 'eGeekStore',
+      title: 'e-Geek Store',
       publishDate: 'Dec 14, 2023',
       tags: 'Frontend | UI/UX',
     },

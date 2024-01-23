@@ -5,24 +5,24 @@ import { FiGithub, FiChrome } from 'react-icons/fi';
 
 export const projectEGeekStore = {
   ProjectHeader: {
-    title: 'eGeekStore',
+    title: 'e-Geek Store',
     publishDate: 'Dec 14, 2023',
     tags: 'Frontend | UI/UX',
   },
   ProjectImages: [
     {
       id: 1,
-      title: 'eGeekStore',
+      title: 'e-Geek Store',
       img: eGeekStore1,
     },
     {
       id: 2,
-      title: 'eGeekStore',
+      title: 'e-Geek Store',
       img: eGeekStore2,
     },
     {
       id: 3,
-      title: 'eGeekStore',
+      title: 'e-Geek Store',
       img: eGeekStore3,
     },
   ],
