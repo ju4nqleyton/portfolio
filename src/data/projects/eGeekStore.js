@@ -3,7 +3,7 @@ import eGeekStore2 from '../../images/egeekstore-2.jpg';
 import eGeekStore3 from '../../images/egeekstore-3.jpg';
 import { FiGithub, FiChrome } from 'react-icons/fi';
 
-export const projectEGeekStore = {
+export const eGeekStore = {
   ProjectHeader: {
     title: 'e-Geek Store',
     publishDate: 'Dec 14, 2023',

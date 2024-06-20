@@ -1,8 +1,10 @@
 import henryDogs1 from '../images/henrydogs-1.jpg';
 import eGeekStore1 from '../images/egeekstore-1.jpg';
+import countries1 from '../images/countries-1.jpg';
 
-import { projectHenryDogs } from './projects/henryDogs';
-import { projectEGeekStore } from './projects/eGeekStore';
+import { henryDogs } from './projects/henryDogs';
+import { eGeekStore } from './projects/eGeekStore';
+import { countries } from './projects/countries';
 
 export const projectsData = [
   {
@@ -16,7 +18,7 @@ export const projectsData = [
       tags: 'Backend | Frontend | UI/UX',
     },
     slug: 'henry-dogs',
-    details: projectHenryDogs,
+    details: henryDogs,
   },
   {
     id: 2,
@@ -29,6 +31,19 @@ export const projectsData = [
       tags: 'Frontend | UI/UX',
     },
     slug: 'egeekstore',
-    details: projectEGeekStore,
+    details: eGeekStore,
+  },
+  {
+    id: 3,
+    title: 'Countries',
+    category: 'Web Application',
+    img: countries1,
+    ProjectHeader: {
+      title: 'Countries',
+      publishDate: 'Jan , 2024',
+      tags: 'Backend | Frontend | UI/UX',
+    },
+    slug: 'countries',
+    details: countries,
   },
 ];
