@@ -1,4 +1,4 @@
-import { FiGithub, FiLinkedin, FiTwitter } from 'react-icons/fi';
+import { FiGithub, FiLinkedin } from 'react-icons/fi';
 
 const socialLinks = [
   {
@@ -10,11 +10,6 @@ const socialLinks = [
     id: 2,
     icon: <FiLinkedin />,
     url: 'https://www.linkedin.com/in/ju4nqleyton',
-  },
-  {
-    id: 3,
-    icon: <FiTwitter />,
-    url: 'https://twitter.com/ju4nqleyton',
   },
 ];
 
