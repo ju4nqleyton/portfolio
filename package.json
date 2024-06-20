@@ -4,9 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^14.4.3",
     "framer-motion": "4.1.17",
     "postcss-cli": "^10.1.0",
     "react": "^18.1.0",
@@ -25,14 +22,12 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts --openssl-legacy-provider build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:css": "postcss src/css/tailwind.css -o src/css/main.css"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {
@@ -49,7 +44,6 @@
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
-    "@testing-library/dom": "^8.20.0",
     "autoprefixer": "^10.4.7",
     "gh-pages": "^6.1.1",
     "postcss": "^8.4.21",
