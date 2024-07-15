@@ -58,7 +58,7 @@ export const henryDogs = {
         id: 1,
         name: 'GitHub',
         icon: <FiGithub />,
-        url: 'https://github.com/ju4nqleyton/pi-dogs',
+        url: 'https://github.com/ju4nqleyton/henry-dogs',
       },
     ],
   },
