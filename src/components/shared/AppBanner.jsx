@@ -5,8 +5,9 @@ import { Typewriter } from 'react-simple-typewriter';
 
 const AppBanner = () => {
   const typewriterTexts = [
-    'Front-end Developer',
-    'Passionate UI/UX',
+    'Full-stack developer',
+    'Code Enthusiast',
+    'Problem Solver',
     'Always Learning',
   ];
   return (
@@ -57,7 +58,7 @@ const AppBanner = () => {
           className="flex justify-center sm:block"
         >
           <a
-            href="https://docs.google.com/document/d/1lvk0_JfTyJFfmKIw4gtEsl_VrvmIS5mSSz6WxhW4xVw/edit?usp=drive_link"
+            href="https://docs.google.com/document/d/1Lv8V5hoZa_UWwIoZ-JALgRcO55ppKMEQ4I9AUN87eRI/edit?usp=drive_link"
             target="_blank"
             rel="noreferrer"
             className="font-general-medium flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-amber-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-amber-50 focus:ring-1 focus:ring-amber-900 hover:bg-amber-500 text-gray-500 hover:text-white duration-500"
