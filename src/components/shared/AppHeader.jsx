@@ -55,7 +55,7 @@ const AppHeader = () => {
               onClick={toggleMenu}
               type="button"
               className="focus:outline-none"
-              aria-label="Hamburger Menu"
+              aria-label="Menu"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -82,23 +82,23 @@ const AppHeader = () => {
           <Link
             to="/projects"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-            aria-label="Projects"
+            aria-label="Proyectos"
           >
-            Projects
+            Proyectos
           </Link>
           <Link
             to="/about"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
-            aria-label="About Me"
+            aria-label="Sobre mí"
           >
-            About Me
+            Sobre mí
           </Link>
           <Link
             to="/contact"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2 border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
-            aria-label="Contact"
+            aria-label="Contacto"
           >
-            Contact
+            Contacto
           </Link>
         </div>
         {/* Header links large screen */}
@@ -106,23 +106,23 @@ const AppHeader = () => {
           <Link
             to="/projects"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-            aria-label="Projects"
+            aria-label="Proyectos"
           >
-            Projects
+            Proyectos
           </Link>
           <Link
             to="/about"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-            aria-label="About Me"
+            aria-label="Sobre mí"
           >
-            About Me
+            Sobre mí
           </Link>
           <Link
             to="/contact"
             className="block text-left text-lg text-primary-dark dark:text-ternary-light hover:text-secondary-dark dark:hover:text-secondary-light  sm:mx-4 mb-2 sm:py-2"
-            aria-label="Contact"
+            aria-label="Contacto"
           >
-            Contact
+            Contacto
           </Link>
         </div>
         {/* Header right section buttons */}

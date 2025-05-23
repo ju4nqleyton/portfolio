@@ -9,11 +9,11 @@ export const sendEmail = async (formRef) => {
       formRef.current,
       'oGepLHNgumrcZ8Joy'
     );
-    toast.success('Message sent successfully!');
+    toast.success('¡Mensaje enviado correctamente!');
     return response;
   } catch (error) {
     console.error('FAILED...', error.text);
-    toast.error('Failed to send message. Please try again.');
+    toast.error('Error al enviar el mensaje. Inténtalo de nuevo.');
     return error;
   }
 };

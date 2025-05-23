@@ -6,8 +6,8 @@ import { FiGithub } from 'react-icons/fi';
 export const henryDogs = {
   ProjectHeader: {
     title: 'Henry Dogs',
-    publishDate: 'Nov 10, 2023',
-    tags: 'Backend | Frontend | UI/UX',
+    publishDate: 'Noviembre, 2023',
+    tags: 'Back-end | Front-end | UI/UX',
   },
   ProjectImages: [
     {
@@ -27,12 +27,11 @@ export const henryDogs = {
     },
   ],
   ProjectInfo: {
-    ObjectivesHeading: 'Objective',
-    ObjectivesDetails:
-      'The Henry Dogs project aims to develop a Single Page Application (SPA) using technologies such as React, Redux, Node, Express, and Sequelize. Additionally, the project seeks to apply fundamental design and User Experience (UX : UI) concepts to deliver a pleasant and functional interface to users. The primary objective is to consolidate and connect the acquired knowledge from the academic background, particularly focusing on web development, state management, and interaction with external APIs. Furthermore, the project emphasizes the adoption of best development practices, including the implementation of an efficient GIT workflow and the incorporation of testing to ensure code quality.',
+    ObjectivesHeading: 'Objetivo',
+    ObjectivesDetails: '',
     Technologies: [
       {
-        title: 'Tools & Technologies',
+        title: 'Herramientas y tecnologías',
         techs: [
           'JavaScript',
           'React',
@@ -44,15 +43,14 @@ export const henryDogs = {
         ],
       },
     ],
-    ProjectDetailsHeading: 'Challenge',
+    ProjectDetailsHeading: 'Desafío',
     ProjectDetails: [
       {
         id: 1,
-        details:
-          'The project faces several significant challenges. One challenge involves implementing efficient algorithms to filter and sort search results on the client side, avoiding reliance on predefined endpoints from the external API. Additionally, overcoming the proper synchronization of the application state using Redux, especially in dynamically managing information about dogs, is a critical challenge. Another crucial challenge is designing an attractive and functional interface, incorporating design and UX : UI concepts to enhance the user experience. Furthermore, tackling the challenge of learning and applying Sequelize for efficient interaction with the database, ensuring data security, and proper management is paramount. Lastly, the integration of unit and integration tests during development is essential to ensure code reliability and proper functionality. These challenges not only contribute to technical development but also promote continuous improvement and learning of robust practices throughout the application development process.',
+        details: '',
       },
     ],
-    SocialSharingHeading: 'Share This',
+    SocialSharingHeading: 'Compartir',
     SocialSharing: [
       {
         id: 1,

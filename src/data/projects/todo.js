@@ -6,8 +6,8 @@ import { FiGithub } from 'react-icons/fi';
 export const todoApp = {
   ProjectHeader: {
     title: 'TODO App',
-    publishDate: 'Jul 11, 2024',
-    tags: 'Frontend',
+    publishDate: 'Julio, 2024',
+    tags: 'Front-end',
   },
   ProjectImages: [
     {
@@ -27,24 +27,22 @@ export const todoApp = {
     },
   ],
   ProjectInfo: {
-    ObjectivesHeading: 'Objective',
-    ObjectivesDetails:
-      'Develop a task list application that allows users to efficiently manage their daily tasks by providing functionalities to add, edit, delete, and mark tasks as complete. The application uses TypeScript to ensure a more robust and maintainable codebase.',
+    ObjectivesHeading: 'Objetivo',
+    ObjectivesDetails: '',
     Technologies: [
       {
-        title: 'Tools & Technologies',
+        title: 'Herramientas y tecnologías',
         techs: ['JavaScript', 'TypeScript', 'CSS'],
       },
     ],
-    ProjectDetailsHeading: 'Challenge',
+    ProjectDetailsHeading: 'Desafío',
     ProjectDetails: [
       {
         id: 1,
-        details:
-          'Learn and apply advanced TypeScript concepts, such as creating custom types and state management, to improve the structure and maintainability of the code. This includes implementing interfaces to better define the shape of objects and using generics to handle collections of tasks more efficiently.',
+        details: '',
       },
     ],
-    SocialSharingHeading: 'Share This',
+    SocialSharingHeading: 'Compartir',
     SocialSharing: [
       {
         id: 1,

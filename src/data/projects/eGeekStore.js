@@ -6,8 +6,8 @@ import { FiGithub, FiChrome } from 'react-icons/fi';
 export const eGeekStore = {
   ProjectHeader: {
     title: 'e-Geek Store',
-    publishDate: 'Dec 14, 2023',
-    tags: 'Frontend | UI/UX',
+    publishDate: 'Diciembre, 2023',
+    tags: 'Front-end | UI/UX',
   },
   ProjectImages: [
     {
@@ -27,12 +27,11 @@ export const eGeekStore = {
     },
   ],
   ProjectInfo: {
-    ObjectivesHeading: 'Objective',
-    ObjectivesDetails:
-      'The objective of the e-commerce project was to create a platform for selling collectible items in the geek world. The focus was on developing a user-friendly and visually appealing Single Page Application (SPA) using a technology stack that included JavaScript, Tailwind CSS, React, Redux, Node.js, Express, and Sequelize. The primary goal was to provide a seamless and enjoyable online shopping experience for users interested in geek-themed collectibles. My specific contribution to the project was the design of the entire UI and UX, utilizing Tailwind CSS to create an interface that aligns with the geek culture aesthetic and enhances the overall user experience.',
+    ObjectivesHeading: 'Objetivo',
+    ObjectivesDetails: '',
     Technologies: [
       {
-        title: 'Tools & Technologies',
+        title: 'Herramientas y tecnologías',
         techs: [
           'JavaScript',
           'React',
@@ -44,15 +43,14 @@ export const eGeekStore = {
         ],
       },
     ],
-    ProjectDetailsHeading: 'Challenge',
+    ProjectDetailsHeading: 'Desafío',
     ProjectDetails: [
       {
         id: 1,
-        details:
-          "The project presented several challenges, including the need to efficiently manage and display a diverse range of collectible items. This required the implementation of dynamic filtering and sorting algorithms on the client side to enhance the user's browsing experience. Additionally, ensuring seamless communication between the frontend and backend through Redux and handling complex data interactions with Sequelize posed technical challenges. Designing an interface that not only met aesthetic preferences but also facilitated smooth navigation for users unfamiliar with e-commerce platforms was a critical aspect. The challenge also included incorporating responsive design principles using Tailwind CSS to ensure a consistent and engaging experience across different devices. Overall, the project aimed to balance functionality, aesthetics, and usability to create a successful geek-themed e-commerce platform.",
+        details: '',
       },
     ],
-    SocialSharingHeading: 'Share This',
+    SocialSharingHeading: 'Compartir',
     SocialSharing: [
       {
         id: 1,

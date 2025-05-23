@@ -6,8 +6,8 @@ import { FiGithub } from 'react-icons/fi';
 export const gifApp = {
   ProjectHeader: {
     title: 'Gif App',
-    publishDate: 'Jul 9, 2024',
-    tags: 'Frontend',
+    publishDate: 'Julio, 2024',
+    tags: 'Front-end',
   },
   ProjectImages: [
     {
@@ -27,24 +27,22 @@ export const gifApp = {
     },
   ],
   ProjectInfo: {
-    ObjectivesHeading: 'Objective',
-    ObjectivesDetails:
-      'Create a GIF search application that allows users to search for and display GIFs using the Giphy API. The application features a simple user interface where users can input search queries and view a collection of relevant GIFs retrieved from the API.',
+    ObjectivesHeading: 'Objetivo',
+    ObjectivesDetails: '',
     Technologies: [
       {
-        title: 'Tools & Technologies',
+        title: 'Herramientas y tecnologías',
         techs: ['JavaScript', 'TypeScript', 'CSS'],
       },
     ],
-    ProjectDetailsHeading: 'Challenge',
+    ProjectDetailsHeading: 'Desafío',
     ProjectDetails: [
       {
         id: 1,
-        details:
-          'Gain experience in using TypeScript for type safety and error handling while working with asynchronous data fetching. This includes defining interfaces for the API response structure and implementing proper error management to ensure a smooth user experience when interacting with the GIF search functionality.',
+        details: '',
       },
     ],
-    SocialSharingHeading: 'Share This',
+    SocialSharingHeading: 'Compartir',
     SocialSharing: [
       {
         id: 1,

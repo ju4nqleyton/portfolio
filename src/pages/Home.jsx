@@ -15,9 +15,9 @@ const Home = () => {
         <Link
           to="/projects"
           className="font-general-medium flex items-center px-6 py-3 rounded-lg shadow-lg hover:shadow-xl bg-amber-500 hover:bg-amber-600 focus:ring-1 focus:ring-amber-900 text-white text-lg sm:text-xl duration-300"
-          aria-label="More Projects"
+          aria-label="Más proyectos"
         >
-          <Button title="More Projects" />
+          <Button title="Más proyectos" />
         </Link>
       </div>
     </div>

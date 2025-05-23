@@ -5,10 +5,10 @@ import { Typewriter } from 'react-simple-typewriter';
 
 const AppBanner = () => {
   const typewriterTexts = [
-    'Full-stack developer',
-    'Code Enthusiast',
-    'Problem Solver',
-    'Always Learning',
+    'Desarrollador full-stack.',
+    'Aprendizaje continuo.',
+    'Tecnología y futuro.',
+    'Entusiasta de Linux.',
   ];
   return (
     <motion.section
@@ -28,7 +28,8 @@ const AppBanner = () => {
           }}
           className="font-general-semibold text-2xl lg:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light uppercase"
         >
-          Hi, I am Juan Quintero
+          Hola
+          <br /> Soy Juan Quintero
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -62,11 +63,11 @@ const AppBanner = () => {
             target="_blank"
             rel="noreferrer"
             className="font-general-medium flex justify-center items-center w-36 sm:w-48 mt-12 mb-6 sm:mb-0 text-lg border border-amber-200 dark:border-ternary-dark py-2.5 sm:py-3 shadow-lg rounded-lg bg-amber-50 focus:ring-1 focus:ring-amber-900 hover:bg-amber-500 text-gray-500 hover:text-white duration-500"
-            aria-label="Download Resume"
+            aria-label="Descargar"
           >
             <FiArrowDownCircle className="mr-2 sm:mr-3 h-5 w-5 sn:w-6 sm:h-6 duration-100"></FiArrowDownCircle>
             <span className="text-sm sm:text-lg font-general-medium duration-100">
-              Download CV
+              Descargar CV
             </span>
           </a>
         </motion.div>

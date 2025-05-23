@@ -6,8 +6,8 @@ import { FiGithub } from 'react-icons/fi';
 export const countries = {
   ProjectHeader: {
     title: 'Countries',
-    publishDate: 'Jan , 2024',
-    tags: 'Backend | Frontend | UI/UX',
+    publishDate: 'Enero, 2024',
+    tags: 'Back-end | Front-end | UI/UX',
   },
   ProjectImages: [
     {
@@ -27,12 +27,11 @@ export const countries = {
     },
   ],
   ProjectInfo: {
-    ObjectivesHeading: 'Objective',
-    ObjectivesDetails:
-      'The objective of this project is to enable users to search for and explore flags of different countries. The application offers search, filtering, detailed country views, and the association of related activities. The goal is to provide an accessible and interactive way to obtain geographic and cultural information.',
+    ObjectivesHeading: 'Objetivo',
+    ObjectivesDetails: '',
     Technologies: [
       {
-        title: 'Tools & Technologies',
+        title: 'Herramientas y tecnologías',
         techs: [
           'JavaScript',
           'React',
@@ -44,15 +43,14 @@ export const countries = {
         ],
       },
     ],
-    ProjectDetailsHeading: 'Challenge',
+    ProjectDetailsHeading: 'Desafío',
     ProjectDetails: [
       {
         id: 1,
-        details:
-          'One of the main challenges was integrating Redux for global state management with React and TailwindCSS. Implementing efficient real-time search and filtering while maintaining a smooth user experience required careful synchronization of the application state with user actions, ensuring modular, high-performance code.',
+        details: '',
       },
     ],
-    SocialSharingHeading: 'Share This',
+    SocialSharingHeading: 'Compartir',
     SocialSharing: [
       {
         id: 1,

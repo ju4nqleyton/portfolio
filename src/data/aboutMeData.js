@@ -1,18 +1,18 @@
 export const aboutMeData = [
   {
     id: 1,
-    bio: "I'm Juan Quintero, a 27-year-old technology enthusiast with a passion for full-stack development. Although my background is in History, technology has always been my true calling.",
+    bio: '¡Hola! Soy Juan Quintero, tengo 28 años y soy un apasionado por la tecnología. Desde que inicié mi camino en el desarrollo de software, he estado motivado por el deseo de construir soluciones creativas, eficientes y con impacto real.',
   },
   {
     id: 2,
-    bio: "Currently, I'm fully immersed in mastering both front-end and back-end technologies, focusing on JavaScript, TypeScript, React, Node.js, Express, and Tailwind CSS. My goal is to blend creativity with technical expertise to build exceptional digital experiences.",
+    bio: 'Me enfoco en el desarrollo full-stack, combinando una sólida base en tecnologías como JavaScript, React, Node.js, Express, TypeScript y Tailwind CSS para construir interfaces modernas y eficientes. En el lado del backend, tengo experiencia trabajando con bases de datos relacionales y no relacionales como PostgreSQL y MongoDB, integrando herramientas como Docker y OAuth2 para lograr soluciones seguras y escalables. Además, cuento con conocimientos en Linux, redes, administración de servidores y principios del Internet de las Cosas (IoT), lo que me permite tener una visión integral del entorno tecnológico.',
   },
   {
     id: 3,
-    bio: "As I eagerly pursue my first professional opportunity in the tech industry, I'm excited to bring my diverse skill set and unique perspective to full-stack development. My analytical mindset, enriched by a historical background, complements my technical prowess.",
+    bio: 'Me emociona mucho la posibilidad de integrarme a un equipo de desarrollo, aportar valor con mis habilidades y seguir creciendo profesionalmente en este apasionante mundo.',
   },
   {
     id: 4,
-    bio: 'Join me on this thrilling journey where innovation and creativity come together to shape extraordinary digital solutions!',
+    bio: '¡Estoy listo para asumir nuevos desafíos y construir grandes cosas juntos!',
   },
 ];

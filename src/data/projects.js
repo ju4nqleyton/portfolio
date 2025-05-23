@@ -14,7 +14,7 @@ export const projectsData = [
   {
     id: 1,
     title: 'Henry Dogs',
-    category: 'Web Application',
+    category: 'Aplicación web',
     img: henryDogs1,
     ProjectHeader: {
       title: 'Henry Dogs',
@@ -27,7 +27,7 @@ export const projectsData = [
   {
     id: 2,
     title: 'e-Geek Store',
-    category: 'UI/UX Design',
+    category: 'Diseño UI/UX',
     img: eGeekStore1,
     ProjectHeader: {
       title: 'e-Geek Store',
@@ -40,7 +40,7 @@ export const projectsData = [
   {
     id: 3,
     title: 'Countries',
-    category: 'Web Application',
+    category: 'Aplicación web',
     img: countries1,
     ProjectHeader: {
       title: 'Countries',
@@ -53,7 +53,7 @@ export const projectsData = [
   {
     id: 4,
     title: 'Gif App',
-    category: 'Web Application',
+    category: 'Aplicación web',
     img: gif1,
     ProjectHeader: {
       title: 'Gif App',
@@ -66,7 +66,7 @@ export const projectsData = [
   {
     id: 5,
     title: 'TODO App',
-    category: 'Web Application',
+    category: 'Aplicación web',
     img: todo1,
     ProjectHeader: {
       title: 'TODO App',
